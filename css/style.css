@@ -1,0 +1,30 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand h1 {
+    font-size: 18px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.navbar-brand h2 {
+    font-size: 18px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.collapse .notif {
+    margin-right: 18px;
+}
+
+.collapse .message {
+    margin-right: 25px;
+}
+
+.profile {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
